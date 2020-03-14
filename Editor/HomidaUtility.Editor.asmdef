@@ -1,0 +1,15 @@
+{
+    "name": "HomidaUtility.Editor",
+    "references": [
+        "GUID:3ae872f59a4f48e4e823f432185b1ce6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

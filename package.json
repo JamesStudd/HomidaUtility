@@ -1,0 +1,10 @@
+{
+  "name": "com.homidautility",
+  "description": "Some utility functions and classes",
+  "displayName": "Homida Utility",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "author": {
+    "name": "James Studd"
+  }
+}
