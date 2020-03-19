@@ -4,7 +4,7 @@ using UnityEditor.SceneManagement;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HomidaUtility.Utility.Editor
+namespace HomidaUtility.Scene.Editor
 {
 	public class SceneLoadingWindow : EditorWindow
 	{
