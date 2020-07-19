@@ -6,6 +6,7 @@ using System.Linq;
 
 namespace HomidaUtility.Utility.Editor
 {
+	#if UNITY_EDITOR
 	public class SceneLoadingWindow : EditorWindow
 	{
 		private GUIStyle _titleStyle;
@@ -89,4 +90,5 @@ namespace HomidaUtility.Utility.Editor
 			}
 		}
 	}
+	#endif
 }
