@@ -29,7 +29,7 @@ namespace HomidaUtility.Scene.Editor
 			};
 
 			_scenes = EditorBuildSettings.scenes;
-			_scenePaths = _scenes.Select(scene => scene.path).ToList();
+			_scenePaths = _scenes.Where(s => s.path != string.Empty).Select(s => s.path).ToList();
 			_scenesSelected = new List<bool>();
 			for (int i = 0; i < _scenePaths.Count; i++)
 			{
