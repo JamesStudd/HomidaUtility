@@ -2,6 +2,9 @@
 
 Just some various utility / classes that I have created/found whilst developing that could be used in any project.
 
+## Usage
+Go into the package.json and add `"com.js.unityutility": "https://github.com/JamesStudd/UnityUtilities.git",`
+
 ## Scene Loader
 
 ### Usage
